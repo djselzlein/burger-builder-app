@@ -1,5 +1,5 @@
 import React from 'react';
-import { classes } from 'istanbul-lib-coverage';
+import classes from './BuildControl.css';
 
 const buildControl = (props) => (
     <div className={classes.BuildControl}>
